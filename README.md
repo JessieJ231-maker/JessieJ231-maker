@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**JessieJ231-maker/JessieJ231-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT enthusiast starting my journey into cloud computing. As a recent graduate from CMU, I am currently working in a helpdesk position. Aiming towards the next steps in my career, I have began devoting some of my free time to learining all about the cloud. ☁ 
 
-Here are some ideas to get you started:
+<details>
+  <summary>Obtained Skills</summary>
+    - GitHub <br />
+    - Termminal <br />
+    - Git <br />
+    - Markdown <br />
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are the links to my socials:
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jessica-jackson-7ab077249/) 
