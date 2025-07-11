@@ -8,6 +8,7 @@ I am an IT enthusiast starting my journey into cloud computing. As a recent grad
     - Termminal <br />
     - Git <br />
     - Markdown <br />
+    - Commits <br />
 </details>
 
 Here are the links to my socials:
